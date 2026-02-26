@@ -77,4 +77,4 @@ try:
     print(f"Prediction based on input: {result}")
 
 except Exception as e:
-    print("An error occurred:", e)
+    print("An error occurred:", e) 
